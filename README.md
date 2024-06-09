@@ -5,6 +5,8 @@
 In today's fast-paced world, mental health issues are on the rise, and traditional therapy can often be expensive and inaccessible. FIDO - Your Personal Mental Well-being Buddy aims to bridge this gap by providing an innovative and accessible solution for mental health support. FIDO leverages advanced emotion detection algorithms to identify users' emotions in real-time through their webcam feed and responds with immediate therapeutic support, making it a constant emotional companion available 24/7.
 ![img chat](https://github.com/Dysfunctional-Human/FIDO---Real-time-Facial-Emotion-Recognition-based-AI-Therapist/assets/124693488/32f83495-41d1-4c14-a0cf-7408a0ac4812)
 
+The Demo can be found here: [https://youtu.be/qorGj4Kxh3Y](https://youtu.be/qorGj4Kxh3Y?feature=shared)
+
 
 ## Features
 
